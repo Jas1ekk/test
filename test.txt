@@ -1,7 +1,6 @@
-# 0 oznacza off | 1 oznacza on
-otwórz stronę - 0
-otwórz cd - 0
+otwórz stronę - 1
+otwórz cd - 1
 zrób ss`a - 1
-otworzenie procesu - 0
-powiadomienie windows - 0
-włączenie dźwięku - 0
+otworzenie procesu - 1
+powiadomienie windows - 1
+włączenie dźwięku - 1
