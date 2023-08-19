@@ -1,5 +1,5 @@
-otwórz stronę - 1
-otwórz cd - 1
+otwórz stronę - 0
+otwórz cd - 0
 zrób ss`a - 1
 otworzenie procesu - 1
 powiadomienie windows - 1
